@@ -1,0 +1,31 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: aqua;
+    margin: 0;
+}
+h1,h2,h3, li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ul{
+    font-size: 3vh;
+}
+header{
+    text-align: center;
+}
+#header{
+    text-align: center;
+    font-size: 5vh;
+}
+.card{
+    display: flex;
+    gap:50px;
+    justify-content: center;
+    padding: 11px 19px;
+    margin:0 40px;
+}
+.card h4{
+    font-size: 4vh;
+}
